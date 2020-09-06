@@ -14,6 +14,8 @@ const strings: L10nsStrings = {
   hours: 'ca. %d timer',
   day: 'en dag',
   days: '%d dager',
+  week: 'ca. en uke',
+  weeks: '%d uker',
   month: 'ca. en måned',
   months: '%d måneder',
   year: 'ca. et år',
